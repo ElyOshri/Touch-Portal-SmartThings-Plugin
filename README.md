@@ -10,7 +10,7 @@ This plugin is for controlling smart devices that are connected to SmartThings
 * Lighting Control And States (Works)
 * Switches And Dimmers Control And States (Works)
 * Outlets And Plugs Control And States (Works)
-* Thermostats Control And States (Needs Testing)
+* Thermostats Control And States (Needs Testing)(Nest Devices Are Not Supported)
 * Door Lock Control And States (Needs Testing)
 * Sensors States (Needs Testing)
 
