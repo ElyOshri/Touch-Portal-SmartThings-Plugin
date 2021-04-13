@@ -37,7 +37,7 @@ For RGB background color change or text color change you can use "When Plug-in S
 * If the plugin isn't working please go to ``%appdata%\TouchPortal\plugins\SmartThings`` and make sure that both exes are there like in this picture below, if they are missing (either one or both of them) please make sure that your anti-virus hasn't flagged them as malware (Most Anti Viruses Do That Because The Plugin Is Written In Python)
 * ![image](https://user-images.githubusercontent.com/79017393/114606833-749dcb80-9ca4-11eb-853a-efd40a762be9.png)
 
-* If that isn't the case I will be happy to help with anything you need in the ``SmartThinga`` channel on Touch Portals discord server (https://discord.com/invite/MgxQb8r)
+* If that isn't the case I will be happy to help with anything you need in the ``SmartThings`` channel on Touch Portals discord server (https://discord.com/invite/MgxQb8r)
 
 
 
