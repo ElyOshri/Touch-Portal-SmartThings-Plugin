@@ -1,5 +1,11 @@
+
 # Touch-Portal-SmartThings-Plugin
 A SmartThings Plugin For Touch Portal
+
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-SmartThings-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases)
+[![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-SmartThings-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases)
+
+
 
 ## Overview
 
@@ -39,7 +45,22 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 * If that isn't the case I will be happy to help with anything you need in the ``SmartThings`` channel on Touch Portals discord server (https://discord.com/invite/MgxQb8r)
 
+## Possible State Values
 
+* Switch - `on` or `off`
+* Brightness - `0 - 100`
+* Color - `#00000000 - #FFFFFFFF`
+* Hue - `0 - 100`
+* Saturation - `0 - 100`
+* Color Temperature - `1 - 30000` (depending on the device)
+* Thermostat Temperature - `-460 - 10000` (depending on chosen unit `C` or `F`)
+* Thermostat Mode -  `auto`, `cool`, `eco`, `rush hour`, `emergency heat`, `heat`, `off`
+* Thermostat Setpoint - `-460 - 10000` (depending on chosen unit `C` or `F`)
+* Motion Sensor - `active` or `inactive`
+* Contact Sensor - `closed` or `open`
+* Presence Sensor - `present` or `not present`
+* Lock - `locked`, `unlocked`, `unlocked with timeout`, `unknown`
+* Window Shade - `closed`, `closing`, `open`, `opening`, `partially open`, `unknown`
 
 ## Plugin Settings
 * Api Key: The Api Key Of Your SmartThings (https://account.smartthings.com/tokens) 
