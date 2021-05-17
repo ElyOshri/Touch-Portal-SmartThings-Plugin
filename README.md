@@ -2,7 +2,7 @@
 # Touch-Portal-SmartThings-Plugin
 A SmartThings Plugin For Touch Portal
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-SmartThings-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-SmartThings-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases/tag/v1.0)
 [![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-SmartThings-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases)
 
 
