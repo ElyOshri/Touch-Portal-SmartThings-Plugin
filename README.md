@@ -4,6 +4,7 @@ A SmartThings Plugin For Touch Portal
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-SmartThings-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases/tag/v1.0)
 [![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-SmartThings-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/ElyOshri1)
 
 
 
@@ -72,4 +73,4 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 
 
-Any Donations Are Welcome At www.paypal.me/ElyOshri 
+Any Donations Are Welcome At www.paypal.me/ElyOshri1 
