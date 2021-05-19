@@ -50,10 +50,10 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 ## Troubleshooting - MacOS
 
-* If the plugin isn't working please go to `Documents/TouchPortal/plugins/SmartThings` and check the two log files if they say: `Permission denied`. opent the Terminal and run these two commends:
+* If the plugin isn't working please go to `Documents/TouchPortal/plugins/SmartThings` and check the two log files if they say: `Permission denied`. open the Terminal and run these two commends:
 * `cd Documents/TouchPortal/plugins/SmartThings` 
 * `chmod 777 SmartThings_Plugin*` 
-* Another problem coulb be that your anti virus flagged the two Unix executables that are in `Documents/TouchPortal/plugins/SmartThings` and are shown in the picture below, if one of them is missing check your anti virus and make sure that either of them didn't get flagged as malware and try to reinstall the plugin. (Most Anti Viruses Do That Because The Plugin Is Written In Python)
+* Another problem could be that your anti virus flagged the two Unix executables that are in `Documents/TouchPortal/plugins/SmartThings` and are shown in the picture below, if one of them is missing check your anti virus and make sure that either of them didn't get flagged as malware and try to reinstall the plugin. (Most Anti Viruses Do That Because The Plugin Is Written In Python)
 
 ![image](https://user-images.githubusercontent.com/79017393/118855602-98c17d80-b8de-11eb-99dc-8221a37888ab.png)
 
