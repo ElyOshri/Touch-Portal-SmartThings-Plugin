@@ -40,12 +40,24 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 * Note: Not all devices are not supported yet (please contact me to add the devices you want), the plugin should only allow you to do actions on the devices that support that type of action and the same is for States. (if your device doesn't show up in an action list or a state is created for it that means that it isn't supported)
 
-## Troubleshooting
+## Troubleshooting - Windows
 
 * If the plugin isn't working please go to ``%appdata%\TouchPortal\plugins\SmartThings`` and make sure that both exes are there like in this picture below, if they are missing (either one or both of them) please make sure that your anti-virus hasn't flagged them as malware (Most Anti Viruses Do That Because The Plugin Is Written In Python)
-* ![image](https://user-images.githubusercontent.com/79017393/114606833-749dcb80-9ca4-11eb-853a-efd40a762be9.png)
+ 
+ ![image](https://user-images.githubusercontent.com/79017393/114606833-749dcb80-9ca4-11eb-853a-efd40a762be9.png)
+ 
+ * If that isn't the case I will be happy to help with anything you need in the ``SmartThings`` channel on Touch Portal's discord server (https://discord.com/invite/MgxQb8r)
 
-* If that isn't the case I will be happy to help with anything you need in the ``SmartThings`` channel on Touch Portals discord server (https://discord.com/invite/MgxQb8r)
+## Troubleshooting - MacOS
+
+* If the plugin isn't working please go to `Documents/TouchPortal/plugins/SmartThings` and check the two log files if they say: `Permission denied`. opent the Terminal and run these two commends:
+* `cd Documents/TouchPortal/plugins/SmartThings` 
+* `chmod 777 SmartThings_Plugin*` 
+* Another problem coulb be that your anti virus flagged the two Unix executables that are in `Documents/TouchPortal/plugins/SmartThings` and are shown in the picture below, if one of them is missing check your anti virus and make sure that either of them didn't get flagged as malware and try to reinstall the plugin. (Most Anti Viruses Do That Because The Plugin Is Written In Python)
+
+![image](https://user-images.githubusercontent.com/79017393/118855602-98c17d80-b8de-11eb-99dc-8221a37888ab.png)
+
+* If that isn't the case I will be happy to help with anything you need in the ``SmartThings`` channel on Touch Portal's discord server (https://discord.com/invite/MgxQb8r)
 
 ## Possible State Values
 
