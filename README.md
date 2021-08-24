@@ -29,6 +29,8 @@ https://github.com/ElyOshri/Touch-Portal-SmartThings-Plugin/releases
 
 Get the latest version and there will be a TPP file you can download. From Touch Portal go to Import Plugin. Once you have done that add your SmartThings Api key which you can get from here: https://account.smartthings.com/tokens and enter it into the SmartThings plugin settings and restart the plugin.
 
+* When Generating A New Api Key You Need To Enable All Things Under: Devices, Locations And Scenes. Otherwise The Plugin Wont Work. 
+
 After that you will have a list of new actions you can choose from. Also States are available for supported devices. You can see them from the Dynamic Text Updater, or you can add an option for "On Plugin State Change" then select the corresponding state and "Changes to". 
 
 For Device ON or OFF state you need to use "on" or "off".
